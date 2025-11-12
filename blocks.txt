@@ -2,3 +2,5 @@
 /.*wikipedia.*/
 ||wikipedia.org^
 ||basspro.com^
+||https://en.wikipedia.org^
+||https://ewikipedia.org^
